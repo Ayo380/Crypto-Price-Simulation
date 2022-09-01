@@ -9,4 +9,8 @@ have a buzzer that will alarm when one of the tickers has increased in price by 
 will also cause the LED in Arduino #1 to blink for that crypto. And Arduino #4 which will
 have 3 buttons that will allow us to get detailed info on crypto(1 scrolls up, 1 scrolls down,
 other works like “enter”). The 3 non-master arduinos will be powered by batteries and will
-work through connectivity to the master arduino(Arduino #1). It also does the same for the other 2 cryptocoins
+work through connectivity to the master arduino(Arduino #1). It also does the same for the other 2 cryptocoins.
+
+
+video demonstation link: https://www.youtube.com/shorts/1Hex3s4W0Kw 
+Project overview file link: https://drive.google.com/file/d/1NcG3NO9xVKX5LOBJMF3bjb6k8Vs1rV6Y/view?usp=sharing 
